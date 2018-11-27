@@ -1,5 +1,5 @@
 {
-  "name": "thrift",
+  "name": "thrift-js",
   "version": "0.9.3",
   "devDependencies": {
     "grunt": "~0.4.5",
