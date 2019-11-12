@@ -1,6 +1,6 @@
 {
   "name": "@hivestreaming/thrift",
-  "version": "0.9.3-build.1",
+  "version": "0.9.3-build.2",
   "main": "src/thrift.js",
   "files": [
     "index.d.ts"
